@@ -1,0 +1,12 @@
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\FinalProject\E-Commerce_Coffee_And_Tea\BLL\bin\Debug\BLL.dll
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\FinalProject\E-Commerce_Coffee_And_Tea\BLL\bin\Debug\BLL.pdb
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\FinalProject\E-Commerce_Coffee_And_Tea\BLL\bin\Debug\DAL.dll
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\FinalProject\E-Commerce_Coffee_And_Tea\BLL\bin\Debug\DTO.dll
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\FinalProject\E-Commerce_Coffee_And_Tea\BLL\bin\Debug\DAL.pdb
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\FinalProject\E-Commerce_Coffee_And_Tea\BLL\bin\Debug\DTO.pdb
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\FinalProject\E-Commerce_Coffee_And_Tea\BLL\bin\Debug\DTO.dll.config
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\FinalProject\E-Commerce_Coffee_And_Tea\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\FinalProject\E-Commerce_Coffee_And_Tea\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\FinalProject\E-Commerce_Coffee_And_Tea\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\FinalProject\E-Commerce_Coffee_And_Tea\BLL\obj\Debug\BLL.dll
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\FinalProject\E-Commerce_Coffee_And_Tea\BLL\obj\Debug\BLL.pdb

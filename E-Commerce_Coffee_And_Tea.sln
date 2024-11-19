@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{BEA3060F-1D88-4D43-8102-A4BCE41FD88A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomControls", "CustomControls\CustomControls.csproj", "{BFCC3EBB-37BC-450F-BCD2-33A579A26A6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{BEA3060F-1D88-4D43-8102-A4BCE41FD88A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEA3060F-1D88-4D43-8102-A4BCE41FD88A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEA3060F-1D88-4D43-8102-A4BCE41FD88A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFCC3EBB-37BC-450F-BCD2-33A579A26A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFCC3EBB-37BC-450F-BCD2-33A579A26A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFCC3EBB-37BC-450F-BCD2-33A579A26A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFCC3EBB-37BC-450F-BCD2-33A579A26A6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

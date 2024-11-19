@@ -42,6 +42,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\Category\CategoryService.cs" />
+    <Compile Include="Services\Category\ICategoryService.cs" />
+    <Compile Include="Services\Product\IProductService.cs" />
+    <Compile Include="Services\Product\ProductService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DAL\DAL.csproj">
@@ -52,6 +56,9 @@
       <Project>{3f85c673-4520-4166-a682-46b506b2bca5}</Project>
       <Name>DTO</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Utilities\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

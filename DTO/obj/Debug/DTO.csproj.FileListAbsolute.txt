@@ -1,0 +1,7 @@
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\FinalProject\E-Commerce_Coffee_And_Tea\DTO\bin\Debug\DTO.dll.config
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\FinalProject\E-Commerce_Coffee_And_Tea\DTO\bin\Debug\DTO.dll
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\FinalProject\E-Commerce_Coffee_And_Tea\DTO\bin\Debug\DTO.pdb
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\FinalProject\E-Commerce_Coffee_And_Tea\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\FinalProject\E-Commerce_Coffee_And_Tea\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\FinalProject\E-Commerce_Coffee_And_Tea\DTO\obj\Debug\DTO.dll
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\FinalProject\E-Commerce_Coffee_And_Tea\DTO\obj\Debug\DTO.pdb
