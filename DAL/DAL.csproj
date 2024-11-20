@@ -45,8 +45,14 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\Category\CategoryRepository.cs" />
     <Compile Include="Repositories\Category\ICategoryRepository.cs" />
+    <Compile Include="Repositories\ProductDetail\ProductDetailRepository.cs" />
+    <Compile Include="Repositories\ProductDetail\IProductDetailRepository.cs" />
     <Compile Include="Repositories\Product\IProductRepository.cs" />
     <Compile Include="Repositories\Product\ProductRepository.cs" />
+    <Compile Include="Repositories\Recipe\IRecipeRepository.cs" />
+    <Compile Include="Repositories\Recipe\RecipeRepository.cs" />
+    <Compile Include="Repositories\Size\ISizeRepository.cs" />
+    <Compile Include="Repositories\Size\SizeRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DTO\DTO.csproj">

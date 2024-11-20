@@ -129,6 +129,7 @@
     <Reference Include="System.Diagnostics.DiagnosticSource, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>..\packages\System.Diagnostics.DiagnosticSource.9.0.0\lib\net462\System.Diagnostics.DiagnosticSource.dll</HintPath>
     </Reference>
+    <Reference Include="System.DirectoryServices" />
     <Reference Include="System.IO.Pipelines, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>..\packages\System.IO.Pipelines.9.0.0\lib\net462\System.IO.Pipelines.dll</HintPath>
     </Reference>
@@ -178,6 +179,12 @@
     <Compile Include="Forms\Manager\frmMainManagement.Designer.cs">
       <DependentUpon>frmMainManagement.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\Manager\Material\frmMaterialManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Manager\Material\frmMaterialManagement.Designer.cs">
+      <DependentUpon>frmMaterialManagement.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\Manager\Product\frmProductManagement.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -198,6 +205,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Manager\frmMainManagement.resx">
       <DependentUpon>frmMainManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Manager\Material\frmMaterialManagement.resx">
+      <DependentUpon>frmMaterialManagement.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Manager\Product\frmProductManagement.resx">
       <DependentUpon>frmProductManagement.cs</DependentUpon>
