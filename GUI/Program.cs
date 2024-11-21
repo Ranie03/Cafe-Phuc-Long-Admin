@@ -39,7 +39,11 @@ namespace GUI
                     // Đăng ký DbContext với Connection String
                     services.AddTransient(provider =>
                     {
+<<<<<<< Updated upstream
                         string connectionString = "Data Source=KAMLING;Initial Catalog=E-Commerce_Coffee_And_Tea;Integrated Security=True";
+=======
+                        string connectionString = "Data Source=MSI;Initial Catalog=E-Commerce_Coffee_And_Tea;Integrated Security=True;Encrypt=False";
+>>>>>>> Stashed changes
                         return new E_Commerce_Coffee_And_TeaDataContext(connectionString);
                     });
 

@@ -18,5 +18,6 @@ namespace DAL.Repositories.Category
         {
             return _context.DanhMucs.ToList();
         }
+
     }
 }

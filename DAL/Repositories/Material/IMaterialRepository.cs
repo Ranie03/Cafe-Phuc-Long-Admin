@@ -9,6 +9,10 @@ namespace DAL.Repositories.Material
 {
     public interface IMaterialRepository
     {
+<<<<<<< Updated upstream
         List<NguyenLieu> GetMaterialsList();
+=======
+        List<NguyenLieu> GetMaterialList();
+>>>>>>> Stashed changes
     }
 }

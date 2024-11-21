@@ -9,6 +9,10 @@ namespace BLL.Services.Material
 {
     public interface IMaterialService
     {
+<<<<<<< Updated upstream
         List<NguyenLieu> GetMaterialsList();
+=======
+        List<NguyenLieu> GetMaterialList();
+>>>>>>> Stashed changes
     }
 }

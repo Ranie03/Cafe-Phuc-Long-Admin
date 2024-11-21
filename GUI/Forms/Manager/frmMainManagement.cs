@@ -9,6 +9,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using GUI.Forms.Manager.Staff;
+using GUI.Forms.Manager.Customer;
+using GUI.Forms.Manager.GoodsReceipt;
+
+
 
 namespace GUI.Forms.Manager
 {
@@ -50,6 +55,31 @@ namespace GUI.Forms.Manager
             frmCustomerManagement frmCustomerManagement = _serviceProvider.GetRequiredService<frmCustomerManagement>();
             frmCustomerManagement.ShowDialog();
             this.Show();
+        }
+
+        private void viewEmployeeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+
+            frmStaffManagement frmStaffManagement = _serviceProvider.GetRequiredService<frmStaffManagement>();
+            frmStaffManagement.Show();
+
+        }
+
+        private void addToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+
+            frmGoodsReceiptManagement frmGoodsReceiptManagement = _serviceProvider.GetRequiredService<frmGoodsReceiptManagement>();
+            frmGoodsReceiptManagement.Show();
+        }
+
+        private void viewCustomerToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+
+            frmCustomerManagement frmCustomerManagement = _serviceProvider.GetRequiredService<frmCustomerManagement>();
+            frmCustomerManagement.Show();
         }
     }
 }

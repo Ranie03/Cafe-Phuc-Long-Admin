@@ -36,6 +36,11 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="DevExpress.Data.Desktop.v24.1, Version=24.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v24.1, Version=24.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Drawing.v24.1, Version=24.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v24.1.Core, Version=24.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v24.1, Version=24.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.9.0.0\lib\net462\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
     </Reference>
@@ -120,6 +125,7 @@
     <Reference Include="Microsoft.Extensions.Primitives, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.Extensions.Primitives.9.0.0\lib\net462\Microsoft.Extensions.Primitives.dll</HintPath>
     </Reference>
+    <Reference Include="PresentationCore" />
     <Reference Include="System" />
     <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
@@ -144,6 +150,7 @@
     <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
     </Reference>
+    <Reference Include="System.Runtime.Remoting" />
     <Reference Include="System.Text.Encodings.Web, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>..\packages\System.Text.Encodings.Web.9.0.0\lib\net462\System.Text.Encodings.Web.dll</HintPath>
     </Reference>
@@ -165,6 +172,8 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationClient" />
+    <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Forms\frmMainSale.cs">
@@ -185,11 +194,19 @@
     <Compile Include="Forms\Manager\frmMainManagement.Designer.cs">
       <DependentUpon>frmMainManagement.cs</DependentUpon>
     </Compile>
+<<<<<<< Updated upstream
     <Compile Include="Forms\Manager\Material\frmMaterialManagement.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Forms\Manager\Material\frmMaterialManagement.Designer.cs">
       <DependentUpon>frmMaterialManagement.cs</DependentUpon>
+=======
+    <Compile Include="Forms\Manager\GoodsReceipt\frmGoodsReceiptManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Manager\GoodsReceipt\frmGoodsReceiptManagement.Designer.cs">
+      <DependentUpon>frmGoodsReceiptManagement.cs</DependentUpon>
+>>>>>>> Stashed changes
     </Compile>
     <Compile Include="Forms\Manager\Product\frmProductManagement.cs">
       <SubType>Form</SubType>
@@ -197,6 +214,7 @@
     <Compile Include="Forms\Manager\Product\frmProductManagement.Designer.cs">
       <DependentUpon>frmProductManagement.cs</DependentUpon>
     </Compile>
+<<<<<<< Updated upstream
     <Compile Include="Forms\Staff\Order\frmCreateOrderSaff.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -214,6 +232,13 @@
     </Compile>
     <Compile Include="Forms\Staff\Order\UC_Product.Designer.cs">
       <DependentUpon>UC_Product.cs</DependentUpon>
+=======
+    <Compile Include="Forms\Manager\Staff\frmStaffManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Manager\Staff\frmStaffManagement.Designer.cs">
+      <DependentUpon>frmStaffManagement.cs</DependentUpon>
+>>>>>>> Stashed changes
     </Compile>
     <Compile Include="frmLogin.cs">
       <SubType>Form</SubType>
@@ -233,12 +258,18 @@
     <EmbeddedResource Include="Forms\Manager\frmMainManagement.resx">
       <DependentUpon>frmMainManagement.cs</DependentUpon>
     </EmbeddedResource>
+<<<<<<< Updated upstream
     <EmbeddedResource Include="Forms\Manager\Material\frmMaterialManagement.resx">
       <DependentUpon>frmMaterialManagement.cs</DependentUpon>
+=======
+    <EmbeddedResource Include="Forms\Manager\GoodsReceipt\frmGoodsReceiptManagement.resx">
+      <DependentUpon>frmGoodsReceiptManagement.cs</DependentUpon>
+>>>>>>> Stashed changes
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Manager\Product\frmProductManagement.resx">
       <DependentUpon>frmProductManagement.cs</DependentUpon>
     </EmbeddedResource>
+<<<<<<< Updated upstream
     <EmbeddedResource Include="Forms\Staff\Order\frmCreateOrderSaff.resx">
       <DependentUpon>frmCreateOrderSaff.cs</DependentUpon>
     </EmbeddedResource>
@@ -247,6 +278,10 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Staff\Order\UC_Product.resx">
       <DependentUpon>UC_Product.cs</DependentUpon>
+=======
+    <EmbeddedResource Include="Forms\Manager\Staff\frmStaffManagement.resx">
+      <DependentUpon>frmStaffManagement.cs</DependentUpon>
+>>>>>>> Stashed changes
     </EmbeddedResource>
     <EmbeddedResource Include="frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
@@ -295,7 +330,11 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Forms\Manager\Order\" />
+<<<<<<< Updated upstream
     <Folder Include="Forms\Manager\Staff\" />
+=======
+    <Folder Include="Resources\" />
+>>>>>>> Stashed changes
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

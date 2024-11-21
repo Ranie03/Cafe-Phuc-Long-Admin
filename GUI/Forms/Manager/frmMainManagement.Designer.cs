@@ -34,7 +34,11 @@
             this.viewOrdersToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.manageCustomersToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuManagementToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+<<<<<<< Updated upstream
             this.ViewMaterialToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+=======
+            this.addProductToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+>>>>>>> Stashed changes
             this.viewProductToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.employeeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.addToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -48,6 +52,7 @@
             this.userManualToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.aboutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.supportToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.viewCustomerToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.mainMenuStrip.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -81,21 +86,27 @@
             // createNewOrderToolStripMenuItem
             // 
             this.createNewOrderToolStripMenuItem.Name = "createNewOrderToolStripMenuItem";
-            this.createNewOrderToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.createNewOrderToolStripMenuItem.Size = new System.Drawing.Size(211, 26);
             this.createNewOrderToolStripMenuItem.Text = "Create New Order";
             // 
             // viewOrdersToolStripMenuItem
             // 
             this.viewOrdersToolStripMenuItem.Name = "viewOrdersToolStripMenuItem";
-            this.viewOrdersToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.viewOrdersToolStripMenuItem.Size = new System.Drawing.Size(211, 26);
             this.viewOrdersToolStripMenuItem.Text = "View Orders";
             // 
             // manageCustomersToolStripMenuItem
             // 
+<<<<<<< Updated upstream
             this.manageCustomersToolStripMenuItem.Name = "manageCustomersToolStripMenuItem";
             this.manageCustomersToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.manageCustomersToolStripMenuItem.Text = "Customers";
             this.manageCustomersToolStripMenuItem.Click += new System.EventHandler(this.manageCustomersToolStripMenuItem_Click);
+=======
+            this.manageOrdersToolStripMenuItem.Name = "manageOrdersToolStripMenuItem";
+            this.manageOrdersToolStripMenuItem.Size = new System.Drawing.Size(211, 26);
+            this.manageOrdersToolStripMenuItem.Text = "Manage Orders";
+>>>>>>> Stashed changes
             // 
             // menuManagementToolStripMenuItem
             // 
@@ -106,16 +117,28 @@
             this.menuManagementToolStripMenuItem.Size = new System.Drawing.Size(84, 27);
             this.menuManagementToolStripMenuItem.Text = "Product";
             // 
+<<<<<<< Updated upstream
             // ViewMaterialToolStripMenuItem
             // 
             this.ViewMaterialToolStripMenuItem.Name = "ViewMaterialToolStripMenuItem";
             this.ViewMaterialToolStripMenuItem.Size = new System.Drawing.Size(224, 28);
             this.ViewMaterialToolStripMenuItem.Text = "Material";
+=======
+            // addProductToolStripMenuItem
+            // 
+            this.addProductToolStripMenuItem.Name = "addProductToolStripMenuItem";
+            this.addProductToolStripMenuItem.Size = new System.Drawing.Size(195, 28);
+            this.addProductToolStripMenuItem.Text = "Add Product";
+>>>>>>> Stashed changes
             // 
             // viewProductToolStripMenuItem
             // 
             this.viewProductToolStripMenuItem.Name = "viewProductToolStripMenuItem";
+<<<<<<< Updated upstream
             this.viewProductToolStripMenuItem.Size = new System.Drawing.Size(224, 28);
+=======
+            this.viewProductToolStripMenuItem.Size = new System.Drawing.Size(195, 28);
+>>>>>>> Stashed changes
             this.viewProductToolStripMenuItem.Text = "View Product";
             // 
             // employeeToolStripMenuItem
@@ -123,7 +146,8 @@
             this.employeeToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.addToolStripMenuItem,
             this.viewEmployeeToolStripMenuItem,
-            this.rolesToolStripMenuItem});
+            this.rolesToolStripMenuItem,
+            this.viewCustomerToolStripMenuItem});
             this.employeeToolStripMenuItem.Name = "employeeToolStripMenuItem";
             this.employeeToolStripMenuItem.Size = new System.Drawing.Size(98, 27);
             this.employeeToolStripMenuItem.Text = "Employee";
@@ -133,12 +157,20 @@
             this.addToolStripMenuItem.Name = "addToolStripMenuItem";
             this.addToolStripMenuItem.Size = new System.Drawing.Size(224, 28);
             this.addToolStripMenuItem.Text = "Add Employee";
+            this.addToolStripMenuItem.Click += new System.EventHandler(this.addToolStripMenuItem_Click);
             // 
             // viewEmployeeToolStripMenuItem
             // 
             this.viewEmployeeToolStripMenuItem.Name = "viewEmployeeToolStripMenuItem";
             this.viewEmployeeToolStripMenuItem.Size = new System.Drawing.Size(224, 28);
             this.viewEmployeeToolStripMenuItem.Text = "View Employee";
+            this.viewEmployeeToolStripMenuItem.Click += new System.EventHandler(this.viewEmployeeToolStripMenuItem_Click);
+            // 
+            // rolesToolStripMenuItem
+            // 
+            this.rolesToolStripMenuItem.Name = "rolesToolStripMenuItem";
+            this.rolesToolStripMenuItem.Size = new System.Drawing.Size(224, 28);
+            this.rolesToolStripMenuItem.Text = "Roles Employee";
             // 
             // rolesToolStripMenuItem
             // 
@@ -202,6 +234,13 @@
             this.supportToolStripMenuItem.Size = new System.Drawing.Size(190, 28);
             this.supportToolStripMenuItem.Text = "Support";
             // 
+            // viewCustomerToolStripMenuItem
+            // 
+            this.viewCustomerToolStripMenuItem.Name = "viewCustomerToolStripMenuItem";
+            this.viewCustomerToolStripMenuItem.Size = new System.Drawing.Size(224, 28);
+            this.viewCustomerToolStripMenuItem.Text = "View Customer";
+            this.viewCustomerToolStripMenuItem.Click += new System.EventHandler(this.viewCustomerToolStripMenuItem_Click);
+            // 
             // frmMainManagement
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -240,5 +279,6 @@
         private System.Windows.Forms.ToolStripMenuItem userManualToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem aboutToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem supportToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem viewCustomerToolStripMenuItem;
     }
 }

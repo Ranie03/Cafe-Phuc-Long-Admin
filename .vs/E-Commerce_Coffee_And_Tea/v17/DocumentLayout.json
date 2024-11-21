@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|d:\\github\\cafe-phuc-long-admin\\gui\\forms\\manager\\material\\frmmaterialmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|solutionrelative:gui\\forms\\manager\\material\\frmmaterialmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -61,6 +62,94 @@
     {
       "AbsoluteMoniker": "D:0:0:{BEA3060F-1D88-4D43-8102-A4BCE41FD88A}|DAL\\DAL.csproj|D:\\GitHub\\Cafe-Phuc-Long-Admin\\dal\\repositories\\product\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEA3060F-1D88-4D43-8102-A4BCE41FD88A}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\product\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Staff\\Order\\frmOrderManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GUI\\Forms\\Staff\\Order\\frmOrderManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Cafe-Phuc-Long-Admin\\bll\\services\\orderdetail\\iorderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bll\\services\\orderdetail\\iorderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Cafe-Phuc-Long-Admin\\bll\\services\\orderdetail\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bll\\services\\orderdetail\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Cafe-Phuc-Long-Admin\\dal\\repositories\\orderdetail\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dal\\repositories\\orderdetail\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Cafe-Phuc-Long-Admin\\dal\\repositories\\orderdetail\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dal\\repositories\\orderdetail\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Cafe-Phuc-Long-Admin\\gui\\forms\\staff\\order\\frmordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gui\\forms\\staff\\order\\frmordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Cafe-Phuc-Long-Admin\\dal\\repositories\\order\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dal\\repositories\\order\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Cafe-Phuc-Long-Admin\\dal\\repositories\\order\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dal\\repositories\\order\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Cafe-Phuc-Long-Admin\\gui\\forms\\frmmainsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gui\\forms\\frmmainsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Cafe-Phuc-Long-Admin\\gui\\forms\\manager\\frmmainmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gui\\forms\\manager\\frmmainmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Cafe-Phuc-Long-Admin\\gui\\forms\\manager\\frmmainmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gui\\forms\\manager\\frmmainmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Cafe-Phuc-Long-Admin\\gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Cafe-Phuc-Long-Admin\\gui\\forms\\frmmainsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gui\\forms\\frmmainsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Cafe-Phuc-Long-Admin\\gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Cafe-Phuc-Long-Admin\\gui\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gui\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Cafe-Phuc-Long-Admin\\gui\\forms\\manager\\product\\frmproductmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gui\\forms\\manager\\product\\frmproductmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Cafe-Phuc-Long-Admin\\gui\\forms\\manager\\product\\frmproductmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gui\\forms\\manager\\product\\frmproductmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Cafe-Phuc-Long-Admin\\gui\\forms\\staff\\order\\frmcreateordersaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gui\\forms\\staff\\order\\frmcreateordersaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Cafe-Phuc-Long-Admin\\gui\\forms\\staff\\order\\frmcreateordersaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gui\\forms\\staff\\order\\frmcreateordersaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Cafe-Phuc-Long-Admin\\gui\\forms\\staff\\order\\uc_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gui\\forms\\staff\\order\\uc_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Cafe-Phuc-Long-Admin\\gui\\forms\\staff\\order\\uc_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gui\\forms\\staff\\order\\uc_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Cafe-Phuc-Long-Admin\\gui\\resources\\hong-tra-dao.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gui\\resources\\hong-tra-dao.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +159,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 1,
+=======
+          "SelectedChildIndex": 11,
+>>>>>>> Stashed changes
           "Children": [
             {
               "$type": "Document",
@@ -115,6 +208,22 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
@@ -122,6 +231,7 @@
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+<<<<<<< Updated upstream
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "IProductService.cs",
@@ -132,10 +242,39 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T08:38:33.624Z"
+=======
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IOrderDetailService.cs",
+              "DocumentMoniker": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\BLL\\Services\\OrderDetail\\IOrderDetailService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\OrderDetail\\IOrderDetailService.cs",
+              "ToolTip": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\BLL\\Services\\OrderDetail\\IOrderDetailService.cs",
+              "RelativeToolTip": "BLL\\Services\\OrderDetail\\IOrderDetailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:42:21.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDetailService.cs",
+              "DocumentMoniker": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\BLL\\Services\\OrderDetail\\OrderDetailService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\OrderDetail\\OrderDetailService.cs",
+              "ToolTip": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\BLL\\Services\\OrderDetail\\OrderDetailService.cs",
+              "RelativeToolTip": "BLL\\Services\\OrderDetail\\OrderDetailService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:42:21.791Z"
+>>>>>>> Stashed changes
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+<<<<<<< Updated upstream
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\DAL\\Repositories\\Category\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\Category\\CategoryRepository.cs",
@@ -144,10 +283,46 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T08:27:56.062Z"
+=======
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\DAL\\Repositories\\OrderDetail\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\OrderDetail\\OrderDetailRepository.cs",
+              "ToolTip": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\DAL\\Repositories\\OrderDetail\\OrderDetailRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\OrderDetail\\OrderDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:42:21.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrderDetailRepository.cs",
+              "DocumentMoniker": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\DAL\\Repositories\\OrderDetail\\IOrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\OrderDetail\\IOrderDetailRepository.cs",
+              "ToolTip": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\DAL\\Repositories\\OrderDetail\\IOrderDetailRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\OrderDetail\\IOrderDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:42:21.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmOrderManagement.cs",
+              "DocumentMoniker": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Staff\\Order\\frmOrderManagement.cs",
+              "RelativeDocumentMoniker": "GUI\\Forms\\Staff\\Order\\frmOrderManagement.cs",
+              "ToolTip": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Staff\\Order\\frmOrderManagement.cs",
+              "RelativeToolTip": "GUI\\Forms\\Staff\\Order\\frmOrderManagement.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:42:22.005Z",
+              "EditorCaption": ""
+>>>>>>> Stashed changes
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+<<<<<<< Updated upstream
               "Title": "ProductService.cs",
               "DocumentMoniker": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\BLL\\Services\\Product\\ProductService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\Product\\ProductService.cs",
@@ -181,6 +356,26 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T08:29:33.97Z",
               "EditorCaption": ""
+=======
+              "Title": "frmOrderManagement.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Staff\\Order\\frmOrderManagement.cs",
+              "RelativeDocumentMoniker": "GUI\\Forms\\Staff\\Order\\frmOrderManagement.cs",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Staff\\Order\\frmOrderManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:42:22.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\DAL\\Repositories\\Order\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Order\\OrderRepository.cs",
+              "ToolTip": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\DAL\\Repositories\\Order\\OrderRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Order\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:42:22.147Z"
+>>>>>>> Stashed changes
             },
             {
               "$type": "Bookmark",
@@ -201,6 +396,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
+<<<<<<< Updated upstream
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\DAL\\Repositories\\Product\\ProductRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\Product\\ProductRepository.cs",
@@ -209,10 +405,21 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T08:37:40.041Z"
+=======
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\DAL\\Repositories\\Order\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Order\\IOrderRepository.cs",
+              "ToolTip": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\DAL\\Repositories\\Order\\IOrderRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Order\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:42:22.148Z"
+>>>>>>> Stashed changes
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+<<<<<<< Updated upstream
               "Title": "frmLogin.cs",
               "DocumentMoniker": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\GUI\\frmLogin.cs",
               "RelativeDocumentMoniker": "GUI\\frmLogin.cs",
@@ -279,6 +486,158 @@
               "ViewState": "AgIAACoAAAAAAAAAAAAYwHgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T08:17:07.71Z"
+=======
+              "Title": "frmMainSale.cs",
+              "DocumentMoniker": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\frmMainSale.cs",
+              "RelativeDocumentMoniker": "GUI\\Forms\\frmMainSale.cs",
+              "ToolTip": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\frmMainSale.cs",
+              "RelativeToolTip": "GUI\\Forms\\frmMainSale.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAhwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:42:22.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmMainManagement.cs",
+              "DocumentMoniker": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Manager\\frmMainManagement.cs",
+              "RelativeDocumentMoniker": "GUI\\Forms\\Manager\\frmMainManagement.cs",
+              "ToolTip": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Manager\\frmMainManagement.cs",
+              "RelativeToolTip": "GUI\\Forms\\Manager\\frmMainManagement.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:42:22.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmMainManagement.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Manager\\frmMainManagement.cs",
+              "RelativeDocumentMoniker": "GUI\\Forms\\Manager\\frmMainManagement.cs",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Manager\\frmMainManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:42:22.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\GUI\\frmLogin.cs",
+              "RelativeDocumentMoniker": "GUI\\frmLogin.cs",
+              "ToolTip": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\GUI\\frmLogin.cs",
+              "RelativeToolTip": "GUI\\frmLogin.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:42:22.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmMainSale.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\frmMainSale.cs",
+              "RelativeDocumentMoniker": "GUI\\Forms\\frmMainSale.cs",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\frmMainSale.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:42:22.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\GUI\\frmLogin.cs",
+              "RelativeDocumentMoniker": "GUI\\frmLogin.cs",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:42:22.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\GUI\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "GUI\\ServiceCollectionExtensions.cs",
+              "ToolTip": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\GUI\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "GUI\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:42:22.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmProductManagement.cs",
+              "DocumentMoniker": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Manager\\Product\\frmProductManagement.cs",
+              "RelativeDocumentMoniker": "GUI\\Forms\\Manager\\Product\\frmProductManagement.cs",
+              "ToolTip": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Manager\\Product\\frmProductManagement.cs",
+              "RelativeToolTip": "GUI\\Forms\\Manager\\Product\\frmProductManagement.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:42:22.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmProductManagement.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Manager\\Product\\frmProductManagement.cs",
+              "RelativeDocumentMoniker": "GUI\\Forms\\Manager\\Product\\frmProductManagement.cs",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Manager\\Product\\frmProductManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:42:22.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmCreateOrderSaff.cs",
+              "DocumentMoniker": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Staff\\Order\\frmCreateOrderSaff.cs",
+              "RelativeDocumentMoniker": "GUI\\Forms\\Staff\\Order\\frmCreateOrderSaff.cs",
+              "ToolTip": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Staff\\Order\\frmCreateOrderSaff.cs",
+              "RelativeToolTip": "GUI\\Forms\\Staff\\Order\\frmCreateOrderSaff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:42:22.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmCreateOrderSaff.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Staff\\Order\\frmCreateOrderSaff.cs",
+              "RelativeDocumentMoniker": "GUI\\Forms\\Staff\\Order\\frmCreateOrderSaff.cs",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Staff\\Order\\frmCreateOrderSaff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:42:22.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UC_Product.cs",
+              "DocumentMoniker": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Staff\\Order\\UC_Product.cs",
+              "RelativeDocumentMoniker": "GUI\\Forms\\Staff\\Order\\UC_Product.cs",
+              "ToolTip": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Staff\\Order\\UC_Product.cs",
+              "RelativeToolTip": "GUI\\Forms\\Staff\\Order\\UC_Product.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAhwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:42:22.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UC_Product.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Staff\\Order\\UC_Product.cs",
+              "RelativeDocumentMoniker": "GUI\\Forms\\Staff\\Order\\UC_Product.cs",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Staff\\Order\\UC_Product.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:42:22.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "hong-tra-dao.png - PNG [768x768, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\GitHub\\Cafe-Phuc-Long-Admin\\GUI\\Resources\\hong-tra-dao.png",
+              "RelativeDocumentMoniker": "GUI\\Resources\\hong-tra-dao.png",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Resources\\hong-tra-dao.png - PNG [768x768, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-21T17:42:22.157Z"
+>>>>>>> Stashed changes
             }
           ]
         },
