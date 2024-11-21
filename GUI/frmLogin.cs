@@ -1,4 +1,5 @@
 ﻿using BLL.Services;
+using GUI.Forms;
 using GUI.Forms.Manager;
 using Microsoft.Extensions.DependencyInjection;
 using System;
@@ -33,9 +34,9 @@ namespace GUI
         {
             //Cần xử lý kiểm tra thông tin đăng nhập manager/staff để điều hướng form
             this.Hide();
-
+            frmMainSale frmMainSale = _serviceProvider.GetRequiredService<frmMainSale>();
             frmMainManagement frmMainManagement = _serviceProvider.GetRequiredService<frmMainManagement>();
-            frmMainManagement.ShowDialog();
+            frmMainSale.ShowDialog();
             //Cần xử lý ngoại lệ, thông báo lỗi đăng nhập
         }
     }

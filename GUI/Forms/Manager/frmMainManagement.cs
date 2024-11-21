@@ -26,14 +26,30 @@ namespace GUI.Forms.Manager
         {
             // Các sự kiện sau khi load thông tin form
             this.viewProductToolStripMenuItem.Click += ViewProductToolStripMenuItem_Click;
+            this.ViewMaterialToolStripMenuItem.Click += ViewMaterialToolStripMenuItem_Click;
         }
 
         private void ViewProductToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.Hide();
-
             frmProductManagement frmProductManagement = _serviceProvider.GetRequiredService<frmProductManagement>();
-            frmProductManagement.Show();
+            frmProductManagement.ShowDialog();
+            this.Show();
+        }
+        private void ViewMaterialToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            frmMaterialManagement frmMaterialManagement = _serviceProvider.GetRequiredService<frmMaterialManagement>();
+            frmMaterialManagement.ShowDialog();
+            this.Show();
+        }
+
+        private void manageCustomersToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            frmCustomerManagement frmCustomerManagement = _serviceProvider.GetRequiredService<frmCustomerManagement>();
+            frmCustomerManagement.ShowDialog();
+            this.Show();
         }
     }
 }
