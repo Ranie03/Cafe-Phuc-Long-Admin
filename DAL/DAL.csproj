@@ -45,12 +45,22 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\Category\CategoryRepository.cs" />
     <Compile Include="Repositories\Category\ICategoryRepository.cs" />
+    <Compile Include="Repositories\Customer\CustomerRepository.cs" />
+    <Compile Include="Repositories\Customer\ICustomerRepository.cs" />
+    <Compile Include="Repositories\Material\IMaterialRepository.cs" />
+    <Compile Include="Repositories\Material\MaterialRepository.cs" />
+    <Compile Include="Repositories\OrderDetail\IOrderDetailRepository.cs" />
+    <Compile Include="Repositories\OrderDetail\OrderDetailRepository.cs" />
+    <Compile Include="Repositories\Order\OrderRepository.cs" />
+    <Compile Include="Repositories\Order\IOrderRepository.cs" />
     <Compile Include="Repositories\ProductDetail\ProductDetailRepository.cs" />
     <Compile Include="Repositories\ProductDetail\IProductDetailRepository.cs" />
     <Compile Include="Repositories\Product\IProductRepository.cs" />
     <Compile Include="Repositories\Product\ProductRepository.cs" />
     <Compile Include="Repositories\Recipe\IRecipeRepository.cs" />
     <Compile Include="Repositories\Recipe\RecipeRepository.cs" />
+    <Compile Include="Repositories\Recipe_material\IRecipe_materialRepository.cs" />
+    <Compile Include="Repositories\Recipe_material\Recipe_materialRepository.cs" />
     <Compile Include="Repositories\Size\ISizeRepository.cs" />
     <Compile Include="Repositories\Size\SizeRepository.cs" />
   </ItemGroup>

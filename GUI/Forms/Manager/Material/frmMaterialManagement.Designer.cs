@@ -48,7 +48,7 @@
             this.label4 = new System.Windows.Forms.Label();
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
-            this.listView2 = new System.Windows.Forms.ListView();
+            this.listView_materialsList = new System.Windows.Forms.ListView();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.numericUpDown2 = new System.Windows.Forms.NumericUpDown();
             this.comboBox2 = new System.Windows.Forms.ComboBox();
@@ -59,7 +59,7 @@
             this.label9 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
-            this.listView3 = new System.Windows.Forms.ListView();
+            this.listView_recipe_materialsList = new System.Windows.Forms.ListView();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
@@ -89,7 +89,7 @@
             this.groupBox1.Controls.Add(this.listView_recipeList);
             this.groupBox1.Location = new System.Drawing.Point(57, 87);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(460, 755);
+            this.groupBox1.Size = new System.Drawing.Size(621, 755);
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Công thức";
@@ -162,7 +162,7 @@
             this.listView_recipeList.HideSelection = false;
             this.listView_recipeList.Location = new System.Drawing.Point(12, 21);
             this.listView_recipeList.Name = "listView_recipeList";
-            this.listView_recipeList.Size = new System.Drawing.Size(422, 547);
+            this.listView_recipeList.Size = new System.Drawing.Size(603, 547);
             this.listView_recipeList.TabIndex = 0;
             this.listView_recipeList.UseCompatibleStateImageBehavior = false;
             // 
@@ -178,10 +178,10 @@
             this.groupBox2.Controls.Add(this.label4);
             this.groupBox2.Controls.Add(this.textBox4);
             this.groupBox2.Controls.Add(this.label5);
-            this.groupBox2.Controls.Add(this.listView2);
-            this.groupBox2.Location = new System.Drawing.Point(535, 376);
+            this.groupBox2.Controls.Add(this.listView_materialsList);
+            this.groupBox2.Location = new System.Drawing.Point(695, 376);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(489, 466);
+            this.groupBox2.Size = new System.Drawing.Size(619, 466);
             this.groupBox2.TabIndex = 2;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Nguyên liệu";
@@ -264,14 +264,14 @@
             this.label5.TabIndex = 1;
             this.label5.Text = "Tên nguyên liệu";
             // 
-            // listView2
+            // listView_materialsList
             // 
-            this.listView2.HideSelection = false;
-            this.listView2.Location = new System.Drawing.Point(12, 21);
-            this.listView2.Name = "listView2";
-            this.listView2.Size = new System.Drawing.Size(468, 258);
-            this.listView2.TabIndex = 0;
-            this.listView2.UseCompatibleStateImageBehavior = false;
+            this.listView_materialsList.HideSelection = false;
+            this.listView_materialsList.Location = new System.Drawing.Point(12, 21);
+            this.listView_materialsList.Name = "listView_materialsList";
+            this.listView_materialsList.Size = new System.Drawing.Size(587, 258);
+            this.listView_materialsList.TabIndex = 0;
+            this.listView_materialsList.UseCompatibleStateImageBehavior = false;
             // 
             // groupBox3
             // 
@@ -284,10 +284,10 @@
             this.groupBox3.Controls.Add(this.label9);
             this.groupBox3.Controls.Add(this.label7);
             this.groupBox3.Controls.Add(this.label8);
-            this.groupBox3.Controls.Add(this.listView3);
-            this.groupBox3.Location = new System.Drawing.Point(535, 87);
+            this.groupBox3.Controls.Add(this.listView_recipe_materialsList);
+            this.groupBox3.Location = new System.Drawing.Point(695, 87);
             this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(486, 268);
+            this.groupBox3.Size = new System.Drawing.Size(619, 268);
             this.groupBox3.TabIndex = 3;
             this.groupBox3.TabStop = false;
             // 
@@ -317,7 +317,7 @@
             // button7
             // 
             this.button7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button7.Location = new System.Drawing.Point(373, 67);
+            this.button7.Location = new System.Drawing.Point(492, 67);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(107, 40);
             this.button7.TabIndex = 3;
@@ -327,7 +327,7 @@
             // button8
             // 
             this.button8.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button8.Location = new System.Drawing.Point(373, 117);
+            this.button8.Location = new System.Drawing.Point(492, 117);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(107, 40);
             this.button8.TabIndex = 3;
@@ -337,7 +337,7 @@
             // button9
             // 
             this.button9.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button9.Location = new System.Drawing.Point(373, 21);
+            this.button9.Location = new System.Drawing.Point(492, 21);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(107, 40);
             this.button9.TabIndex = 3;
@@ -371,21 +371,21 @@
             this.label8.TabIndex = 1;
             this.label8.Text = "Công thức";
             // 
-            // listView3
+            // listView_recipe_materialsList
             // 
-            this.listView3.HideSelection = false;
-            this.listView3.Location = new System.Drawing.Point(12, 21);
-            this.listView3.Name = "listView3";
-            this.listView3.Size = new System.Drawing.Size(329, 126);
-            this.listView3.TabIndex = 0;
-            this.listView3.UseCompatibleStateImageBehavior = false;
+            this.listView_recipe_materialsList.HideSelection = false;
+            this.listView_recipe_materialsList.Location = new System.Drawing.Point(12, 21);
+            this.listView_recipe_materialsList.Name = "listView_recipe_materialsList";
+            this.listView_recipe_materialsList.Size = new System.Drawing.Size(418, 126);
+            this.listView_recipe_materialsList.TabIndex = 0;
+            this.listView_recipe_materialsList.UseCompatibleStateImageBehavior = false;
             // 
             // frmMaterialManagement
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
-            this.ClientSize = new System.Drawing.Size(1128, 922);
+            this.ClientSize = new System.Drawing.Size(1348, 922);
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
@@ -427,14 +427,14 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox textBox4;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.ListView listView2;
+        private System.Windows.Forms.ListView listView_materialsList;
         private System.Windows.Forms.GroupBox groupBox3;
         private System.Windows.Forms.Button button7;
         private System.Windows.Forms.Button button8;
         private System.Windows.Forms.Button button9;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.ListView listView3;
+        private System.Windows.Forms.ListView listView_recipe_materialsList;
         private System.Windows.Forms.NumericUpDown numericUpDown2;
         private System.Windows.Forms.ComboBox comboBox2;
         private System.Windows.Forms.ComboBox comboBox1;

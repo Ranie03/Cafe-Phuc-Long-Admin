@@ -1,7 +1,96 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|e:\\t\u00F4i\\learn\\huit\\n\u0103m 4\\thongminh\\cafe-phuc-long-admin\\gui\\forms\\staff\\order\\frmordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|solutionrelative:gui\\forms\\staff\\order\\frmordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|e:\\t\u00F4i\\learn\\huit\\n\u0103m 4\\thongminh\\cafe-phuc-long-admin\\gui\\forms\\staff\\order\\frmordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|solutionrelative:gui\\forms\\staff\\order\\frmordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521529-32B5-4E95-869E-8452B567BE91}|BLL\\BLL.csproj|e:\\t\u00F4i\\learn\\huit\\n\u0103m 4\\thongminh\\cafe-phuc-long-admin\\bll\\services\\orderdetail\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8521529-32B5-4E95-869E-8452B567BE91}|BLL\\BLL.csproj|solutionrelative:bll\\services\\orderdetail\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA3060F-1D88-4D43-8102-A4BCE41FD88A}|DAL\\DAL.csproj|e:\\t\u00F4i\\learn\\huit\\n\u0103m 4\\thongminh\\cafe-phuc-long-admin\\dal\\repositories\\orderdetail\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA3060F-1D88-4D43-8102-A4BCE41FD88A}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\orderdetail\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521529-32B5-4E95-869E-8452B567BE91}|BLL\\BLL.csproj|e:\\t\u00F4i\\learn\\huit\\n\u0103m 4\\thongminh\\cafe-phuc-long-admin\\bll\\services\\orderdetail\\iorderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8521529-32B5-4E95-869E-8452B567BE91}|BLL\\BLL.csproj|solutionrelative:bll\\services\\orderdetail\\iorderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|e:\\t\u00F4i\\learn\\huit\\n\u0103m 4\\thongminh\\cafe-phuc-long-admin\\gui\\forms\\manager\\product\\frmproductmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|solutionrelative:gui\\forms\\manager\\product\\frmproductmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|e:\\t\u00F4i\\learn\\huit\\n\u0103m 4\\thongminh\\cafe-phuc-long-admin\\gui\\forms\\manager\\product\\frmproductmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|solutionrelative:gui\\forms\\manager\\product\\frmproductmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|e:\\t\u00F4i\\learn\\huit\\n\u0103m 4\\thongminh\\cafe-phuc-long-admin\\gui\\forms\\staff\\order\\frmcreateordersaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|solutionrelative:gui\\forms\\staff\\order\\frmcreateordersaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|e:\\t\u00F4i\\learn\\huit\\n\u0103m 4\\thongminh\\cafe-phuc-long-admin\\gui\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|solutionrelative:gui\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA3060F-1D88-4D43-8102-A4BCE41FD88A}|DAL\\DAL.csproj|e:\\t\u00F4i\\learn\\huit\\n\u0103m 4\\thongminh\\cafe-phuc-long-admin\\dal\\repositories\\orderdetail\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA3060F-1D88-4D43-8102-A4BCE41FD88A}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\orderdetail\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|e:\\t\u00F4i\\learn\\huit\\n\u0103m 4\\thongminh\\cafe-phuc-long-admin\\gui\\forms\\frmmainsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|solutionrelative:gui\\forms\\frmmainsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|e:\\t\u00F4i\\learn\\huit\\n\u0103m 4\\thongminh\\cafe-phuc-long-admin\\gui\\forms\\frmmainsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|solutionrelative:gui\\forms\\frmmainsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|e:\\t\u00F4i\\learn\\huit\\n\u0103m 4\\thongminh\\cafe-phuc-long-admin\\gui\\forms\\staff\\order\\frmcreateordersaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|solutionrelative:gui\\forms\\staff\\order\\frmcreateordersaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA3060F-1D88-4D43-8102-A4BCE41FD88A}|DAL\\DAL.csproj|e:\\t\u00F4i\\learn\\huit\\n\u0103m 4\\thongminh\\cafe-phuc-long-admin\\dal\\repositories\\order\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA3060F-1D88-4D43-8102-A4BCE41FD88A}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\order\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA3060F-1D88-4D43-8102-A4BCE41FD88A}|DAL\\DAL.csproj|e:\\t\u00F4i\\learn\\huit\\n\u0103m 4\\thongminh\\cafe-phuc-long-admin\\dal\\repositories\\order\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA3060F-1D88-4D43-8102-A4BCE41FD88A}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\order\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|e:\\t\u00F4i\\learn\\huit\\n\u0103m 4\\thongminh\\cafe-phuc-long-admin\\gui\\forms\\staff\\order\\uc_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|solutionrelative:gui\\forms\\staff\\order\\uc_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|e:\\t\u00F4i\\learn\\huit\\n\u0103m 4\\thongminh\\cafe-phuc-long-admin\\gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|solutionrelative:gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|e:\\t\u00F4i\\learn\\huit\\n\u0103m 4\\thongminh\\cafe-phuc-long-admin\\gui\\forms\\manager\\frmmainmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|solutionrelative:gui\\forms\\manager\\frmmainmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|e:\\t\u00F4i\\learn\\huit\\n\u0103m 4\\thongminh\\cafe-phuc-long-admin\\gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|solutionrelative:gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|e:\\t\u00F4i\\learn\\huit\\n\u0103m 4\\thongminh\\cafe-phuc-long-admin\\gui\\forms\\manager\\frmmainmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|solutionrelative:gui\\forms\\manager\\frmmainmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|e:\\t\u00F4i\\learn\\huit\\n\u0103m 4\\thongminh\\cafe-phuc-long-admin\\gui\\resources\\hong-tra-dao.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|solutionrelative:gui\\resources\\hong-tra-dao.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|e:\\t\u00F4i\\learn\\huit\\n\u0103m 4\\thongminh\\cafe-phuc-long-admin\\gui\\forms\\staff\\order\\uc_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771CC618-FD6D-44FC-A733-8094F67B94D8}|GUI\\GUI.csproj|solutionrelative:gui\\forms\\staff\\order\\uc_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -24,16 +113,282 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrderDetailService.cs",
+              "DocumentMoniker": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\BLL\\Services\\OrderDetail\\IOrderDetailService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\OrderDetail\\IOrderDetailService.cs",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\BLL\\Services\\OrderDetail\\IOrderDetailService.cs",
+              "RelativeToolTip": "BLL\\Services\\OrderDetail\\IOrderDetailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:23:21.304Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDetailService.cs",
+              "DocumentMoniker": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\BLL\\Services\\OrderDetail\\OrderDetailService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\OrderDetail\\OrderDetailService.cs",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\BLL\\Services\\OrderDetail\\OrderDetailService.cs",
+              "RelativeToolTip": "BLL\\Services\\OrderDetail\\OrderDetailService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:22:43.989Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\DAL\\Repositories\\OrderDetail\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\OrderDetail\\OrderDetailRepository.cs",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\DAL\\Repositories\\OrderDetail\\OrderDetailRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\OrderDetail\\OrderDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:19:36.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrderDetailRepository.cs",
+              "DocumentMoniker": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\DAL\\Repositories\\OrderDetail\\IOrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\OrderDetail\\IOrderDetailRepository.cs",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\DAL\\Repositories\\OrderDetail\\IOrderDetailRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\OrderDetail\\IOrderDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:19:19.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmOrderManagement.cs",
+              "DocumentMoniker": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Staff\\Order\\frmOrderManagement.cs",
+              "RelativeDocumentMoniker": "GUI\\Forms\\Staff\\Order\\frmOrderManagement.cs",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Staff\\Order\\frmOrderManagement.cs",
+              "RelativeToolTip": "GUI\\Forms\\Staff\\Order\\frmOrderManagement.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:27:12.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmOrderManagement.cs [Design]",
+              "DocumentMoniker": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Staff\\Order\\frmOrderManagement.cs",
+              "RelativeDocumentMoniker": "GUI\\Forms\\Staff\\Order\\frmOrderManagement.cs",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Staff\\Order\\frmOrderManagement.cs [Design]",
+              "RelativeToolTip": "GUI\\Forms\\Staff\\Order\\frmOrderManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:24:51.591Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\DAL\\Repositories\\Order\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Order\\OrderRepository.cs",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\DAL\\Repositories\\Order\\OrderRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Order\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:18:42.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\DAL\\Repositories\\Order\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Order\\IOrderRepository.cs",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\DAL\\Repositories\\Order\\IOrderRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Order\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:18:41.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmMainSale.cs",
+              "DocumentMoniker": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\frmMainSale.cs",
+              "RelativeDocumentMoniker": "GUI\\Forms\\frmMainSale.cs",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\frmMainSale.cs",
+              "RelativeToolTip": "GUI\\Forms\\frmMainSale.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAhwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:19:54.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmMainManagement.cs",
+              "DocumentMoniker": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Manager\\frmMainManagement.cs",
+              "RelativeDocumentMoniker": "GUI\\Forms\\Manager\\frmMainManagement.cs",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Manager\\frmMainManagement.cs",
+              "RelativeToolTip": "GUI\\Forms\\Manager\\frmMainManagement.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:19:33.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmMainManagement.cs [Design]",
+              "DocumentMoniker": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Manager\\frmMainManagement.cs",
+              "RelativeDocumentMoniker": "GUI\\Forms\\Manager\\frmMainManagement.cs",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Manager\\frmMainManagement.cs [Design]",
+              "RelativeToolTip": "GUI\\Forms\\Manager\\frmMainManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:19:31.844Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\frmLogin.cs",
+              "RelativeDocumentMoniker": "GUI\\frmLogin.cs",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\frmLogin.cs",
+              "RelativeToolTip": "GUI\\frmLogin.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:19:19.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmMainSale.cs [Design]",
+              "DocumentMoniker": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\frmMainSale.cs",
+              "RelativeDocumentMoniker": "GUI\\Forms\\frmMainSale.cs",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\frmMainSale.cs [Design]",
+              "RelativeToolTip": "GUI\\Forms\\frmMainSale.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:18:59.939Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\frmLogin.cs",
+              "RelativeDocumentMoniker": "GUI\\frmLogin.cs",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\frmLogin.cs [Design]",
+              "RelativeToolTip": "GUI\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:18:08.535Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "GUI\\ServiceCollectionExtensions.cs",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "GUI\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:13:55.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmProductManagement.cs",
+              "DocumentMoniker": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Manager\\Product\\frmProductManagement.cs",
+              "RelativeDocumentMoniker": "GUI\\Forms\\Manager\\Product\\frmProductManagement.cs",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Manager\\Product\\frmProductManagement.cs",
+              "RelativeToolTip": "GUI\\Forms\\Manager\\Product\\frmProductManagement.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:00:31.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmProductManagement.cs [Design]",
+              "DocumentMoniker": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Manager\\Product\\frmProductManagement.cs",
+              "RelativeDocumentMoniker": "GUI\\Forms\\Manager\\Product\\frmProductManagement.cs",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Manager\\Product\\frmProductManagement.cs [Design]",
+              "RelativeToolTip": "GUI\\Forms\\Manager\\Product\\frmProductManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:00:29.773Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmCreateOrderSaff.cs",
+              "DocumentMoniker": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Staff\\Order\\frmCreateOrderSaff.cs",
+              "RelativeDocumentMoniker": "GUI\\Forms\\Staff\\Order\\frmCreateOrderSaff.cs",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Staff\\Order\\frmCreateOrderSaff.cs",
+              "RelativeToolTip": "GUI\\Forms\\Staff\\Order\\frmCreateOrderSaff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:00:07.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmCreateOrderSaff.cs [Design]",
+              "DocumentMoniker": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Staff\\Order\\frmCreateOrderSaff.cs",
+              "RelativeDocumentMoniker": "GUI\\Forms\\Staff\\Order\\frmCreateOrderSaff.cs",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Staff\\Order\\frmCreateOrderSaff.cs [Design]",
+              "RelativeToolTip": "GUI\\Forms\\Staff\\Order\\frmCreateOrderSaff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:58:22.598Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UC_Product.cs",
+              "DocumentMoniker": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Staff\\Order\\UC_Product.cs",
+              "RelativeDocumentMoniker": "GUI\\Forms\\Staff\\Order\\UC_Product.cs",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Staff\\Order\\UC_Product.cs",
+              "RelativeToolTip": "GUI\\Forms\\Staff\\Order\\UC_Product.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAhwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:46:37.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UC_Product.cs [Design]",
+              "DocumentMoniker": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Staff\\Order\\UC_Product.cs",
+              "RelativeDocumentMoniker": "GUI\\Forms\\Staff\\Order\\UC_Product.cs",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Forms\\Staff\\Order\\UC_Product.cs [Design]",
+              "RelativeToolTip": "GUI\\Forms\\Staff\\Order\\UC_Product.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:45:10.175Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "hong-tra-dao.png - PNG [768x768, 32 bit, PNG]",
+              "DocumentMoniker": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Resources\\hong-tra-dao.png",
+              "RelativeDocumentMoniker": "GUI\\Resources\\hong-tra-dao.png",
+              "ToolTip": "E:\\T\u00F4i\\Learn\\HUIT\\N\u0103m 4\\ThongMinh\\Cafe-Phuc-Long-Admin\\GUI\\Resources\\hong-tra-dao.png - PNG [768x768, 32 bit, PNG]",
+              "RelativeToolTip": "GUI\\Resources\\hong-tra-dao.png - PNG [768x768, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-21T13:44:42.537Z",
+              "EditorCaption": " - PNG [768x768, 32 bit, PNG]"
             }
           ]
         },

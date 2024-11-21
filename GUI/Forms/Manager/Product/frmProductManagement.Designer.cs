@@ -133,7 +133,7 @@
             this.groupBox1.Controls.Add(this.listView_CategoryList);
             this.groupBox1.Location = new System.Drawing.Point(12, 93);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(418, 684);
+            this.groupBox1.Size = new System.Drawing.Size(418, 703);
             this.groupBox1.TabIndex = 4;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Danh mục";
@@ -157,7 +157,7 @@
             // btn_showAllCategories
             // 
             this.btn_showAllCategories.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_showAllCategories.Location = new System.Drawing.Point(300, 30);
+            this.btn_showAllCategories.Location = new System.Drawing.Point(300, 39);
             this.btn_showAllCategories.Name = "btn_showAllCategories";
             this.btn_showAllCategories.Size = new System.Drawing.Size(93, 31);
             this.btn_showAllCategories.TabIndex = 9;
@@ -167,7 +167,7 @@
             // btn_searchCategory
             // 
             this.btn_searchCategory.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_searchCategory.Location = new System.Drawing.Point(146, 34);
+            this.btn_searchCategory.Location = new System.Drawing.Point(146, 38);
             this.btn_searchCategory.Name = "btn_searchCategory";
             this.btn_searchCategory.Size = new System.Drawing.Size(93, 31);
             this.btn_searchCategory.TabIndex = 8;
@@ -176,7 +176,7 @@
             // 
             // txt_searchCategory
             // 
-            this.txt_searchCategory.Location = new System.Drawing.Point(6, 39);
+            this.txt_searchCategory.Location = new System.Drawing.Point(6, 43);
             this.txt_searchCategory.Name = "txt_searchCategory";
             this.txt_searchCategory.Size = new System.Drawing.Size(134, 22);
             this.txt_searchCategory.TabIndex = 7;
@@ -184,7 +184,7 @@
             // btn_deleteCategory
             // 
             this.btn_deleteCategory.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_deleteCategory.Location = new System.Drawing.Point(284, 635);
+            this.btn_deleteCategory.Location = new System.Drawing.Point(284, 653);
             this.btn_deleteCategory.Name = "btn_deleteCategory";
             this.btn_deleteCategory.Size = new System.Drawing.Size(109, 31);
             this.btn_deleteCategory.TabIndex = 6;
@@ -194,7 +194,7 @@
             // btn_EditCategory
             // 
             this.btn_EditCategory.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_EditCategory.Location = new System.Drawing.Point(138, 635);
+            this.btn_EditCategory.Location = new System.Drawing.Point(137, 655);
             this.btn_EditCategory.Name = "btn_EditCategory";
             this.btn_EditCategory.Size = new System.Drawing.Size(119, 31);
             this.btn_EditCategory.TabIndex = 5;
@@ -204,7 +204,7 @@
             // btn_addCategory
             // 
             this.btn_addCategory.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_addCategory.Location = new System.Drawing.Point(6, 635);
+            this.btn_addCategory.Location = new System.Drawing.Point(9, 655);
             this.btn_addCategory.Name = "btn_addCategory";
             this.btn_addCategory.Size = new System.Drawing.Size(103, 31);
             this.btn_addCategory.TabIndex = 4;
@@ -600,7 +600,7 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(285, 35);
+            this.button1.Location = new System.Drawing.Point(285, 41);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(93, 31);
             this.button1.TabIndex = 10;

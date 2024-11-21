@@ -32,7 +32,7 @@
             this.orderManagementToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.createNewOrderToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.viewOrdersToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.manageOrdersToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.manageCustomersToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuManagementToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ViewMaterialToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.viewProductToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -72,7 +72,7 @@
             this.orderManagementToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.createNewOrderToolStripMenuItem,
             this.viewOrdersToolStripMenuItem,
-            this.manageOrdersToolStripMenuItem});
+            this.manageCustomersToolStripMenuItem});
             this.orderManagementToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.orderManagementToolStripMenuItem.Name = "orderManagementToolStripMenuItem";
             this.orderManagementToolStripMenuItem.Size = new System.Drawing.Size(61, 27);
@@ -81,20 +81,21 @@
             // createNewOrderToolStripMenuItem
             // 
             this.createNewOrderToolStripMenuItem.Name = "createNewOrderToolStripMenuItem";
-            this.createNewOrderToolStripMenuItem.Size = new System.Drawing.Size(211, 26);
+            this.createNewOrderToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.createNewOrderToolStripMenuItem.Text = "Create New Order";
             // 
             // viewOrdersToolStripMenuItem
             // 
             this.viewOrdersToolStripMenuItem.Name = "viewOrdersToolStripMenuItem";
-            this.viewOrdersToolStripMenuItem.Size = new System.Drawing.Size(211, 26);
+            this.viewOrdersToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.viewOrdersToolStripMenuItem.Text = "View Orders";
             // 
-            // manageOrdersToolStripMenuItem
+            // manageCustomersToolStripMenuItem
             // 
-            this.manageOrdersToolStripMenuItem.Name = "manageOrdersToolStripMenuItem";
-            this.manageOrdersToolStripMenuItem.Size = new System.Drawing.Size(211, 26);
-            this.manageOrdersToolStripMenuItem.Text = "Manage Orders";
+            this.manageCustomersToolStripMenuItem.Name = "manageCustomersToolStripMenuItem";
+            this.manageCustomersToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.manageCustomersToolStripMenuItem.Text = "Customers";
+            this.manageCustomersToolStripMenuItem.Click += new System.EventHandler(this.manageCustomersToolStripMenuItem_Click);
             // 
             // menuManagementToolStripMenuItem
             // 
@@ -130,19 +131,19 @@
             // addToolStripMenuItem
             // 
             this.addToolStripMenuItem.Name = "addToolStripMenuItem";
-            this.addToolStripMenuItem.Size = new System.Drawing.Size(213, 28);
+            this.addToolStripMenuItem.Size = new System.Drawing.Size(224, 28);
             this.addToolStripMenuItem.Text = "Add Employee";
             // 
             // viewEmployeeToolStripMenuItem
             // 
             this.viewEmployeeToolStripMenuItem.Name = "viewEmployeeToolStripMenuItem";
-            this.viewEmployeeToolStripMenuItem.Size = new System.Drawing.Size(213, 28);
+            this.viewEmployeeToolStripMenuItem.Size = new System.Drawing.Size(224, 28);
             this.viewEmployeeToolStripMenuItem.Text = "View Employee";
             // 
             // rolesToolStripMenuItem
             // 
             this.rolesToolStripMenuItem.Name = "rolesToolStripMenuItem";
-            this.rolesToolStripMenuItem.Size = new System.Drawing.Size(213, 28);
+            this.rolesToolStripMenuItem.Size = new System.Drawing.Size(224, 28);
             this.rolesToolStripMenuItem.Text = "Roles Employee";
             // 
             // settingsToolStripMenuItem
@@ -223,7 +224,7 @@
         private System.Windows.Forms.ToolStripMenuItem orderManagementToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem createNewOrderToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem viewOrdersToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem manageOrdersToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem manageCustomersToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem menuManagementToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem ViewMaterialToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem viewProductToolStripMenuItem;

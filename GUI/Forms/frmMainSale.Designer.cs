@@ -78,31 +78,33 @@
             // newOrderToolStripMenuItem
             // 
             this.newOrderToolStripMenuItem.Name = "newOrderToolStripMenuItem";
-            this.newOrderToolStripMenuItem.Size = new System.Drawing.Size(170, 26);
+            this.newOrderToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.newOrderToolStripMenuItem.Text = "New Order";
+            this.newOrderToolStripMenuItem.Click += new System.EventHandler(this.newOrderToolStripMenuItem_Click);
             // 
             // saveOrderToolStripMenuItem
             // 
             this.saveOrderToolStripMenuItem.Name = "saveOrderToolStripMenuItem";
-            this.saveOrderToolStripMenuItem.Size = new System.Drawing.Size(170, 26);
+            this.saveOrderToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.saveOrderToolStripMenuItem.Text = "Save Order";
             // 
             // openOrderToolStripMenuItem
             // 
             this.openOrderToolStripMenuItem.Name = "openOrderToolStripMenuItem";
-            this.openOrderToolStripMenuItem.Size = new System.Drawing.Size(170, 26);
+            this.openOrderToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.openOrderToolStripMenuItem.Text = "Open Order";
+            this.openOrderToolStripMenuItem.Click += new System.EventHandler(this.openOrderToolStripMenuItem_Click);
             // 
             // printBillToolStripMenuItem
             // 
             this.printBillToolStripMenuItem.Name = "printBillToolStripMenuItem";
-            this.printBillToolStripMenuItem.Size = new System.Drawing.Size(170, 26);
+            this.printBillToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.printBillToolStripMenuItem.Text = "Print Bill";
             // 
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(170, 26);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.exitToolStripMenuItem.Text = "Exit";
             // 
             // reportsToolStripMenuItem
